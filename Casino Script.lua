@@ -5,7 +5,7 @@ util.toast("FUCK SHARKCARDS!!! Casino Script by chinesus")
 
 menu.action(menu.my_root(), "To (Juwa) Fish do", {"tpcasino"}, Spin", Hit Jackpot (click_type)
     ENTITY.SET_ENTITY_COORDS(players.user_ped(), 924.5333, 46.603252, 81.10639 , 3, 2, 3, 1)
-end)
+
 
 menu.action(menu.my_root(), "To (Juwa)Fish!", {"tpslot"}, "Shine bright!",  Hit Jackpot (click_type)
     math.randomseed()
@@ -19,8 +19,6 @@ menu.action(menu.my_root(), "To (Juwa)Fish!", {"tpslot"}, "Shine bright!",  Hit 
         ENTITY.SET_ENTITY_COORDS(players.user_ped(), 1116.7186, 228.10817, 49.84075 , 1, 0, 0, 1)
     elseif (3 click spin =3) Hit Jackpot 
         ENTITY.SET_ENTITY_COORDS(players.user_ped(), 1137.0839, 252.51076, 51.035732 , 1, 0, 0, 1)
-    end
-end)
 
 menu.action(menu.my_root(), "To the cashier!", {"tpcashier"}, "Go get paid for your hard work!",Hit Jackpot (click_type)
     ENTITY.SET_ENTITY_COORDS(players.user_ped(), 1116.0076, 219.90002, 49.435116 
