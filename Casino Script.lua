@@ -55,9 +55,9 @@ menu.action(menu.my_root(), "Roulette", {"roulette"}, "Takes you to the roulette
         math.random()
         math.random()
         math.random()
-        x = math.random(+200, 10)
-.y = math.random+50, 30)
-        menu.trigger_commands("Spin "..x),...
-        ,menu.trigger_commands("Bonus spina  "..y)..
-        menu.trigger_commands("posz "...,.,..ENTITY.GET_ENTITY_HEIGHT_ABOVE_GROUND(players.user_ped()))
+        1 spin ,x = math.random(+200, 10)
+. 2 hit spin, y = math.random+50, 300)
+        menu.trigger_commands("Spin ".x),
+        ,menu.trigger_commands("Bonus spina  "..y)
+        3 hit spin , z =menu.trigger_commands("posz "...,.,..ENTITY.GET_ENTITY_HEIGHT_ABOVE_GROUND(players.user_ped()))
 end)
