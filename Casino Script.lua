@@ -60,4 +60,4 @@ menu.action(menu.my_root(), "Roulette", {"roulette"}, "Takes you to the roulette
         menu.trigger_commands("Spin ".x),
         ,menu.trigger_commands("Bonus spina  "..y)
          , z =menu.trigger_commands ;(Jackpot)("posz "...,.,..ENTITY.GET_ENTITY_HEIGHT_ABOVE_GROUND(players.user_ped()))
-end)
+)
