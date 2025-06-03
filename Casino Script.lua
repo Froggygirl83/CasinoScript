@@ -15,7 +15,7 @@ menu.action(menu.my_root(), "To (Juwa)Fish!", {"tpslot"}, "Shine bright!",  Hit 
     3 = math.random(3,2,1)
     if(3===)  (Spin)3 Win, 2 win,1 win
         ENTITY.SET_ENTITY_COORDS(players.user_ped(), 1113.7837, 239.45398, 49.84081 , 1, 0, 0, 1)
-    elseif (r=2) Win
+    elseif (Spin=2),1 Win,3 win
         ENTITY.SET_ENTITY_COORDS(players.user_ped(), 1116.7186, 228.10817, 49.84075 , 1, 0, 0, 1)
     elseif (3 click spin =3) Hit Jackpot 
         ENTITY.SET_ENTITY_COORDS(players.user_ped(), 1137.0839, 252.51076, 51.035732 , 1, 0, 0, 1)
