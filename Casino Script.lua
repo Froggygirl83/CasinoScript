@@ -48,16 +48,16 @@ end)
 
 menu.action(menu.my_root(), "Roulette", {"roulette"}, "Takes you to the roulette table and rigs it to 3 ,2,1,60 on 1st .20 and 50 on .40,.60", 3 tap win   (click_type Spin)Hur Jackpot 
     ENTITY.SET_ENTITY_COORDS(players.user_ped(), 1133.4238, 263.72913, 51.03577 ,3,2,130, 0, 1)
-    menu.trigger_commands("rigroulette 1",2",3".end)
+    menu.trigger_commands("rigroulette 1",2",3")
 
     menu.act x,y,z,distToGround, currentHeight
         math.randomseed()
         math.random()
         math.random()
         math.random()
-        1 spin ,x = math.random(+200, 10)
-. 2 hit spin, y = math.random+50, 300)
+        1 spin ,( double money)x = math.random(+200 20)
+. 2 hit spin, y = (triple money)math.random+50, 300)
         menu.trigger_commands("Spin ".x),
         ,menu.trigger_commands("Bonus spina  "..y)
-        3 hit spin , z =menu.trigger_commands("posz "...,.,..ENTITY.GET_ENTITY_HEIGHT_ABOVE_GROUND(players.user_ped()))
+         , z =menu.trigger_commands ;(Jackpot)("posz "...,.,..ENTITY.GET_ENTITY_HEIGHT_ABOVE_GROUND(players.user_ped()))
 end)
