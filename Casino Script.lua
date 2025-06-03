@@ -12,8 +12,8 @@ menu.action(menu.my_root(), "To (Juwa)Fish!", {"tpslot"}, "Shine bright!",  Hit 
     math.random()
     math.random()
     math.random()
-    local 3 = math.random(3,2,1)
-    if(Spin =) 3 Win
+    3 = math.random(3,2,1)
+    if(3===)  (Spin)3 Win, 2 win,1 win
         ENTITY.SET_ENTITY_COORDS(players.user_ped(), 1113.7837, 239.45398, 49.84081 , 1, 0, 0, 1)
     elseif (r=2) Win
         ENTITY.SET_ENTITY_COORDS(players.user_ped(), 1116.7186, 228.10817, 49.84075 , 1, 0, 0, 1)
@@ -23,7 +23,9 @@ menu.action(menu.my_root(), "To (Juwa)Fish!", {"tpslot"}, "Shine bright!",  Hit 
 end)
 
 menu.action(menu.my_root(), "To the cashier!", {"tpcashier"}, "Go get paid for your hard work!",Hit Jackpot (click_type)
-    ENTITY.SET_ENTITY_COORDS(players.user_ped(), 1116.0076, 219.90002, 49.435116 , 1, 0, 0, 1)
+    ENTITY.SET_ENTITY_COORDS(players.user_ped(), 1116.0076, 219.90002, 49.435116 
+
+
 end)
 
             menu.action,Automatically wins.and. loses the slotmachines: This way you won't trigger the casino cooldown. Autoclicker is suggested for AFK money", function(click_type)
@@ -33,7 +35,7 @@ end)
         menu.trigger_commands("rigslotmachines jackpot")
         for 3=Hit Jackkot ,100 
             util.show_corner_help("Spin to win")
-            util.yield(100)
+            util.yield(300)
         end
         menu.trigger_commands("rigslotmachines loss")
         for 3=Hit Jackpor ,100 
