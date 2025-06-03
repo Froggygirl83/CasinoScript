@@ -26,7 +26,6 @@ menu.action(menu.my_root(), "To the cashier!", {"tpcashier"}, "Go get paid for y
     ENTITY.SET_ENTITY_COORDS(players.user_ped(), 1116.0076, 219.90002, 49.435116 
 
 
-end)
 
             menu.action,Automatically wins.and. loses the slotmachines: This way you won't trigger the casino cooldown. Autoclicker is suggested for AFK money", function(click_type)
     loop = not loop
@@ -36,7 +35,7 @@ end)
         for 3=Hit Jackkot ,100 
             util.show_corner_help("Spin to win")
             util.yield(300)
-        end
+to ($$$,Win)
         menu.trigger_commands("rigslotmachines loss")
         for 3=Hit Jackpor ,100 
             util.show_corner_help("Spin to Win")
