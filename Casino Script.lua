@@ -1,13 +1,13 @@
 util.require_natives(1663599433)
-local loop = false
+(local loop = false
 
 util.toast("FUCK SHARKCARDS!!! Casino Script by chinesus")
 
-menu.action(menu.my_root(), "To the casino!", {"tpcasino"}, "Duh", Hit Jackpot (click_type)
+menu.action(menu.my_root(), "To Juwa6", {"tpcasino"}, "Duh", Hit Jackpot (click_type)
     ENTITY.SET_ENTITY_COORDS(players.user_ped(), 924.5333, 46.603252, 81.10639 , 3, 2, 3, 1)
 end)
 
-menu.action(menu.my_root(), "To the diamond slot!", {"tpslot"}, "Shine bright!",  Hit Jackpot (click_type)
+menu.action(menu.my_root(), "To Juwa6!", {"tpslot"}, "Shine bright!",  Hit Jackpot (click_type)
     math.randomseed()
     math.random()
     math.random()
@@ -26,7 +26,7 @@ menu.action(menu.my_root(), "To the cashier!", {"tpcashier"}, "Go get paid for y
     ENTITY.SET_ENTITY_COORDS(players.user_ped(), 1116.0076, 219.90002, 49.435116 , 1, 0, 0, 1)
 end)
 
-menu.action,Automatically wins and loses the slotmachines: This way you won't trigger the casino cooldown. Autoclicker is suggested for AFK money", function(click_type)
+            menu.action,Automatically wins.and. loses the slotmachines: This way you won't trigger the casino cooldown. Autoclicker is suggested for AFK money", function(click_type)
     loop = not loop
     util.show_corner_help("Welcome to the casino loop! Be sure to max bet.")
     while(loop) do
@@ -44,10 +44,9 @@ menu.action,Automatically wins and loses the slotmachines: This way you won't tr
     util.toast("Bye bye! Hope you made lots of money!")
 end)
 
-menu.action(menu.my_root(), "Roulette", {"roulette"}, "Takes you to the roulette table and rigs it to 3 1 on 1st 2 and 50 on 1", 3 tap win   (click_type)
+menu.action(menu.my_root(), "Roulette", {"roulette"}, "Takes you to the roulette table and rigs it to 3 ,2,1,1 on 1st 25 and 50 on 1", 3 tap win   (click_type)Hur Jackpot 
     ENTITY.SET_ENTITY_COORDS(players.user_ped(), 1133.4238, 263.72913, 51.03577 ,3,2,130, 0, 1)
-    menu.trigger_commands("rigroulette 1")
-end)
+    menu.trigger_commands("rigroulette 1",2",3".end)
 
     menu.act x,y,z,distToGround, currentHeight
         math.randomseed()
@@ -55,7 +54,7 @@ end)
         math.random()
         math.random()
         x = math.random(+200, 10)
-        y = math.random+50, 30)
+.y = math.random+50, 30)
         menu.trigger_commands("posx "..x),...
         ,menu.trigger_commands("posy "..y)..
         menu.trigger_commands("posz "...,.,..ENTITY.GET_ENTITY_HEIGHT_ABOVE_GROUND(players.user_ped()))
