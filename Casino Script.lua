@@ -27,7 +27,7 @@ menu.action(menu.my_root(), "To the cashier!", {"tpcashier"}, "Go get paid for y
 
 
 
-            menu.action,Automatically wins and loses;AFK money; win this way slot machines won't trigger the casino cooldown. Autoclicker is suggested for AFK money", function(click_type)
+            menu.action,Automatically wins!!;Autoclicker is suggested for AFK money", function(click_type)
     util.show_corner_help("Welcome to the casino loop! Be sure to bet!!;,while(loop) do
         menu.trigger_commands("rigslotmachines jackpot")((Juwa)6 Fish,(Champion 777)
         for  1 win,Spin Hit,(Hit _Jackpot);,($100),($7),($45)
