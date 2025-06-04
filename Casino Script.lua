@@ -7,7 +7,7 @@ menu.action(menu.my_root(), "To (Juwa)6 Fish", {"(Juwa)6 Fish"}, {("Champion 777
     ENTITY.SET_ENTITY_COORDS(players.user_ped(), 924.5333, 46.603252, 81.10639 , 3, 2, 1.
 
 
-menu.action(menu.my_root(), "To (Juwa)6 Fish!", {"(Juwa)6 Fish"}, "Shine bright!",  (Hit_ Jackpot),fuction (click_type)=(*Hit_Jackpot*)
+menu.action(menu.my_root(), "To (Juwa)6 Fish!", {"(Juwa)6 Fish"}, "Shine bright!",  (Hit_ Jackpot),fuction (click_type)=(Hit_Jackpot)
     math.randomseed()
     math.rando()
     math.random()
