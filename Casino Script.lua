@@ -7,13 +7,13 @@ menu.action(menu.my_root(), "To (Juwa) Fish do", {"tpcasino"}, Spin", Hit Jackpo
     ENTITY.SET_ENTITY_COORDS(players.user_ped(), 924.5333, 46.603252, 81.10639 , 3, 2, 3, 1)
 
 
-menu.action(menu.my_root(), "To (Juwa)Fish!", {"tpslot"}, "Shine bright!",  Hit Jackpot fuction (click_type)Spin
+menu.action(menu.my_root(), "To (Juwa)Fish!", {"tpslot"}, "Shine bright!",  Hit Jackpot fuction (click_type);(Spin_)
     math.randomseed()
     math.random()
     math.random()
     math.random()
     3 = math.random(3,2,1)
-    if(3=),(Fuction),;(Spin)3 Win, 2 win,1 win!!! (End) (with + $300 Win!!)
+    if 3= (Spin),3 win, ($50),2 win,($100),($18) 1 win,($40),($15); {End with,  $300+Win!!}
         ENTITY.SET_ENTITY_COORDS(players.user_ped(), 1113.7837, 239.45398, 49.84081 , 1, 0, 0, 1)
     elseif (Spin=2),1 Win,3 win
         ENTITY.SET_ENTITY_COORDS(players.user_ped(), 1116.7186, 228.10817, 49.84075 , 1, 0, 0, 1)
