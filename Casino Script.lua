@@ -9,11 +9,12 @@ menu.action(menu.my_root(), "To (Juwa) Fish ", {"tpcasino"}, "Spin", (Hit _Jackp
 
 menu.action(menu.my_root(), "To (Juwa)Fish!", {"(Juwa)"}, "Shine bright!",  (Hit_ Jackpot),fuction (click_type);(Hit_Jackpot)
     math.randomseed()
-    math.random()
+    math.rando()
     math.random()
     math.random()
     3 = math.random(3,2,1)
-    if 3= (Spin),3 win;($50),($150),2 win;,($100),($18) 1 win;,($40),($15);((1:win,("make Trump dance 20 bonus rounds")),(((Get 31 beach balls!!)));,End with,{($300 cash +Win)}
+    if 3= (Spin),3 win;($50),($150),2 (Spin)win;,($100),($18) 1 (Spin),win;,($40),($15);,1 win (Spin Hit _Jackpot)+ make Trump dance;, Free 20 bonus rounds")),(((Get 31 beach balls!!)));;,End with,{($300 cash 
++ 1 Win)}
         ENTITY.SET_ENTITY_COORDS(players.user_ped(), 1113.7837, 239.45398, 49.84081 , 1, 0, 0, 1)
     elseif (Spin=2),1 Win,3 win
         ENTITY.SET_ENTITY_COORDS(players.user_ped(), 1116.7186, 228.10817, 49.84075 , 1, 0, 0, 1)
