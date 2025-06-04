@@ -3,11 +3,13 @@ util.require_natives(1663599433)
 
 util.toast("FUCK SHARKCARDS!!! Casino Script by chinesus")
 
-menu.action(menu.my_root(), "To (Juwa)6 Fish", {"(Juwa)6 Fish"}, {("Champion 777")};//("Spin")Hit _Jackpot)= click_type)
+menu.action(menu.my_root(), "To (Juwa)6 Fish", {"(Juwa)6 Fish"}, {("Champion 777")};(Spin")Hit _Jackpot),(click_type)
     ENTITY.SET_ENTITY_COORDS(players.user_ped(), 924.5333, 46.603252, 81.10639 , 3, 2, 1.
 
 
-menu.action(menu.my_root(), "To (Juwa)6 Fish!", {"(Juwa)6 Fish"}, "Shine bright!",  (Hit_ Jackpot),fuction (click_type)=(Hit_Jackpot)
+menu.action(menu.my_root(), "To (Juwa)6 Fish!", {"(Juwa)6 Fish"}, "Shine bright!",  (Hit_ Jackpot),fuction (click_type)
+
+
     math.randomseed()
     math.rando()
     math.random()
@@ -25,7 +27,7 @@ menu.action(menu.my_root(), "To the cashier!", {"tpcashier"}, "Go get paid for y
 
 
 
-            menu.action,Automatically wins and ,^  AFK;,false loses;this way slot machines won't trigger the casino cooldown. Autoclicker is suggested for AFK money", function(click_type)
+            menu.action,Automatically wins and ,^  loop;AFK money;false loses;this way slot machines won't trigger the casino cooldown. Autoclicker is suggested for AFK money", function(click_type)
     loop = not loop
     util.show_corner_help("Welcome to the casino loop! Be sure to have  fun!!.")
     while(loop) do
@@ -35,9 +37,9 @@ menu.action(menu.my_root(), "To the cashier!", {"tpcashier"}, "Go get paid for y
             util.yield($300)
 to ($600)
         menu.trigger_commands("@rigslotmachines) ;,(Juwa)6 Fish, (Champion 777 Slots)
-        for 3= Hit_Jackpot,($100),($75),($15)
+        for 3 win Hit_Jackpot,($100),($75),($15)
             util.show_corner_help("Spin to Win")
-            util.yield(100)
+            util.yield($100)
     until. yield ($300)
     
     util.toast("Bye bye! Hope you made lots of money!"($300)
