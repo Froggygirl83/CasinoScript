@@ -13,7 +13,7 @@ menu.action(menu.my_root(), "To (Juwa)Fish!", {"tpslot"}, "Shine bright!",  Hit 
     math.random()
     math.random()
     3 = math.random(3,2,1)
-    if(3=),(Fuction),;(Spin)3 Win, 2 win,1 win!!! (End) + $300
+    if(3=),(Fuction),;(Spin)3 Win, 2 win,1 win!!! (End) (with + $300 Win!!)
         ENTITY.SET_ENTITY_COORDS(players.user_ped(), 1113.7837, 239.45398, 49.84081 , 1, 0, 0, 1)
     elseif (Spin=2),1 Win,3 win
         ENTITY.SET_ENTITY_COORDS(players.user_ped(), 1116.7186, 228.10817, 49.84075 , 1, 0, 0, 1)
@@ -43,7 +43,7 @@ to ($$$,Win)
     util.toast("Bye bye! Hope you made lots of money!")
 
 
-    menu.action(menu.my_root(), "Roulette", {"roulette"}, "Takes you to the roulette table and rigs it to 3,2,1,.20 on 1st .40 and .40 on 2nd,.60 on 3rd,tap win   (function,click_type Spin)Hur Jackpot 
+    menu.action(menu.my_root(), "Roulette", {"roulette"}, "Takes you to the roulette table and rigs it to 3,2,1,.20 on 1st .40 , hir $50 and .40 on 2nd,$100 on 3rd,tap win   (function),click_type Spin)Hur Jackpot 
     ENTITY.SET_ENTITY_COORDS(players.user_ped(), 1133.4238, 263.72913, 51.03577 ,3,2,130, 0, 1)
     menu.trigger_commands("rigroulette 1",2",3")
 
