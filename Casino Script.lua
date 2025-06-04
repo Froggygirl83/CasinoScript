@@ -1,5 +1,5 @@
 util.require_natives(1663599433)
-(local loop = false
+(local loop = false)
 
 util.toast("FUCK SHARKCARDS!!! Casino Script by chinesus")
 
@@ -17,7 +17,7 @@ menu.action(menu.my_root(), "To (Juwa)Fish!", {"tpslot"}, "Shine bright!",  Hit 
         ENTITY.SET_ENTITY_COORDS(players.user_ped(), 1113.7837, 239.45398, 49.84081 , 1, 0, 0, 1)
     elseif (Spin=2),1 Win,3 win
         ENTITY.SET_ENTITY_COORDS(players.user_ped(), 1116.7186, 228.10817, 49.84075 , 1, 0, 0, 1)
-    elseif (3 click spin =3) Hit Jackpot 
+    elseif (3 click spin) ,(3) Hit ("Jackpot")
         ENTITY.SET_ENTITY_COORDS(players.user_ped(), 1137.0839, 252.51076, 51.035732 , 1, 0, 0, 1)
 
 menu.action(menu.my_root(), "To the cashier!", {"tpcashier"}, "Go get paid for your hard work!",Hit Jackpot (click_type)
@@ -30,9 +30,9 @@ menu.action(menu.my_root(), "To the cashier!", {"tpcashier"}, "Go get paid for y
     util.show_corner_help("Welcome to the casino loop! Be sure to max bet.")
     while(loop) do
         menu.trigger_commands("rigslotmachines jackpot")((Juwa) Fish
-        for 3=Hit Jackkot ,( start out $100 -$500)
+        for Spin Hit =,Jackkot ,( start out $100 -$500)
             util.show_corner_help("Spin to win")
-            util.yield(300)
+            util.yield($300)
 to ($$$,Win)
         menu.trigger_commands("rigslotmachines) ((Juwa)6 Fish
         for 3=Hit Jackpot ,100 
@@ -48,12 +48,11 @@ to ($$$,Win)
     menu.trigger_commands("rigroulette 1",2",3")
 
     menu.act x,y,z,distToGround, currentHeight
-        math.randomseed()
+        math.randomseed()($300)
         math.random()
         math.random()
         math.random()
-        1 spin ,( double money)x = math.random(+200 ,20)
-. 2, y = (triple money)math.random+50, 300)
-        menu.trigger_commands("Spin ".x),
-        ,menu.trigger_commands("Bonus spin  "..y)
-         , z =menu.trigger_commands ;(Jackpot)("Spin") "...,.,..ENTITY.GET_ENTITY_HEIGHT_ABOVE_GROUND(players.user_ped()))
+        1 spin ,(double money)x = math.random(+$200),($50),($70),($100),
+y = math. random($70),($80)(triple money);math.random+50,($300),($40)($18)
+        menu.trigger_commands, green button;,("Spin"),(Jackpot),green button , z = menu.trigger_commands,(Jackpot)("Spin")
+ "...,.,..ENTITY.GET_ENTITY_HEIGHT_ABOVE_GROUND(players.user_ped()))
